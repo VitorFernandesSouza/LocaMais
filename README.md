@@ -1,2 +1,2 @@
 # LocaMais
-Trabalho da faculdade desenvovlido em C
+Trabalho desenvolvido em C
